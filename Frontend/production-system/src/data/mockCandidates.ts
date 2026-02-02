@@ -23,7 +23,7 @@ export const mockCandidates: Candidate[] = Array.from({ length: 40 }).map(
         team_motivation_score: motivation,
       },
       total_score: total,
-      rank_position: 0, // temp
+      rank_position: 0,
     };
   }
 )
